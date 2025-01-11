@@ -1,4 +1,4 @@
-# jambonz-bidirectional-streaming-exampple
+# jambonz-bidirectional-streaming-example
 
 This is a simple jambonz application, mainly used for testing bidirectional streaming.  For those looking to learn a bit more about jambonz, it does have some interesting features:
 
