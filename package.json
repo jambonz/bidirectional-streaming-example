@@ -1,0 +1,24 @@
+{
+  "name": "jambonz-bidirectional-streaming-exampple",
+  "version": "0.0.1",
+  "description": "jambonz websocket application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "jslint": "eslint app.js lib"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "@google-cloud/speech": "^6.7.0",
+    "@google-cloud/text-to-speech": "^5.7.0",
+    "@jambonz/node-client-ws": "^0.1.68",
+    "pino": "^9.6.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "eslint-plugin-promise": "^7.2.1"
+  }
+}
